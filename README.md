@@ -1,4 +1,4 @@
-### Hi there 👋
+### ¡Hola a todos! 👋
 
 <!--
 **saradehi/saradehi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,27 @@ Here are some ideas to get you started:
 -->
 
 
-Mi nombre es Sarahi del Moro, soy desarrolladora web fullstack.
+Mi nombre es Sarahi del Moro, soy desarrolladora web fullstack. Tengo 28 años, en Buenos Aires, Argentina.
 
 ## ¿Que tecnologías manejo?
+
+-Javascript
+-NextJs
+-ReactJs
+-Redux
+-MongoDB
+-PostgreSQL
+-Sequelize
+-Express
+-NodeJS
+-CSS
+-HTML
+
+## Bienvenidos a mis repositorios
+
+Acá encontraran mis proyectos individuales y los realizados en equipo. 
+
+Medios de contacto: sarahidelmoro@gmail.com
+https://www.linkedin.com/in/sarahi-del-moro-902b981a6/
+
+¡Estaré atenta a cualquier mensaje, contacto o sugerencia!
