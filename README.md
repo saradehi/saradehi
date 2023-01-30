@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Mi nombre es Sarahi del Moro, soy desarrolladora web fullstack.
+
+## ¿Que tecnologías manejo?
